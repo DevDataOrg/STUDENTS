@@ -1,0 +1,19 @@
+/* body {
+    background: #1E252B;
+}
+
+.container {
+    background-color: #1E252B;
+} */
+
+.alert-label {
+  display: block;
+  color: rgb(232, 75, 75);
+}
+
+/* .add-elements-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} */
